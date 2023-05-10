@@ -4,7 +4,7 @@
   const socket = io.connect("http://localhost:4000");
 
   // const myPeer = new Peer(undefined, {
-  //     host: "videocodewing.herokuapp.com",
+  //     host: "videocodecollaborator.herokuapp.com",
   //     port:"443",
   //     secure:!0,
   // });
