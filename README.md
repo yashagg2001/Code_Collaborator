@@ -15,10 +15,10 @@ This is our System Practicum (CS307) Group Project.
 2. [Priyanshu Singh](https://github.com/PriyanshuSingh00/)
 3. [S Samarth Reddy](https://github.com/Samarth88)
 4. [Krati Khinchi](https://github.com/krati0511)
-5. Akkapelli Harshith
-6. Jahnavi
-7. Sanvi Reddy
-8. Akshansh Dhiman
+5. [Sanvi Reddy](https://github.com/Sanvireddy)
+6. [Akshansh Dhiman](https://github.com/Akshansh57)
+7. Akkapelli Harshith
+8. Jahnavi
 
 ## Features
 1. Video Call Application: Multiple people can interact in a room to talk with each other.
